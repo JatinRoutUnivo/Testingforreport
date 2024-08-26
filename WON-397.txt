@@ -1,0 +1,42 @@
+DESKTOP-TGRDIAA\ADMIN
+WON-397
+:- Handling of sign in option available in earlier flow of Enroll Now  
+Request a call nomenclature as Apply now?
+
+The Apply Now button needs to be checked on pages and make sure enroll now is changes to apply now
+
+Header Enroll now changed to apply now
+Hero cart apply now
+Request a call nomenclature as Apply now?
+Apply now on Blue banner card
+About us Apply Now
+About us Request a call
+
+Career services Apply Now
+Student story Enroll now need to change to apply now and new sign in flow need to implement
+Leadership Apply now
+Corporate apply now
+Contact us apply now
+contact us request a call need to change the RFI form as per new signflow
+Terms and conditions apply now
+Intellectual property apply now
+UGC approval apply now not available in header. Enroll now is showing
+Blog apply now
+Media apply now
+Author apply now
+Bachelor of Computer Applications apply now
+BCA with specialization in Data Analytics apply now
+Master of Computer Applications apply now
+MCA with specialization in AR & VR apply now
+
+
+
+Top recruiters
+all list of brands are not showing in mobile view.
+Meet our top ranked faculity:- tile size vary in mobile view.
+
+Stay informed with our top new stories.:- Tiles size varies.
+Latest blog:- Tile size vary in mobile view.
+
+
+

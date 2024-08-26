@@ -2,68 +2,68 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-18T11:35:20 IST" name="Default suite" finished-at="2024-08-18T11:35:46 IST" duration-ms="25206">
+  <suite started-at="2024-08-26T15:57:59 IST" name="Default suite" finished-at="2024-08-26T15:58:16 IST" duration-ms="17054">
     <groups>
     </groups>
-    <test started-at="2024-08-18T11:35:20 IST" name="Default test" finished-at="2024-08-18T11:35:46 IST" duration-ms="25206">
+    <test started-at="2024-08-26T15:57:59 IST" name="Default test" finished-at="2024-08-26T15:58:16 IST" duration-ms="17054">
       <class name="test1.test1Class">
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:20 IST" name="LaunchBrowser" finished-at="2024-08-18T11:35:26 IST" duration-ms="5081" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:57:59 IST" name="LaunchBrowser" finished-at="2024-08-26T15:58:02 IST" duration-ms="3168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="AmityLogo()[pri:1, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:26 IST" name="AmityLogo" finished-at="2024-08-18T11:35:26 IST" duration-ms="131" status="PASS">
+        <test-method signature="AmityLogo()[pri:1, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:02 IST" name="AmityLogo" finished-at="2024-08-26T15:58:02 IST" duration-ms="70" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AmityLogo -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:26 IST" name="CloseBrowser" finished-at="2024-08-18T11:35:26 IST" duration-ms="272" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:02 IST" name="CloseBrowser" finished-at="2024-08-26T15:58:02 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:26 IST" name="LaunchBrowser" finished-at="2024-08-18T11:35:29 IST" duration-ms="3400" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:02 IST" name="LaunchBrowser" finished-at="2024-08-26T15:58:04 IST" duration-ms="2198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="ProgramButton()[pri:2, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:29 IST" name="ProgramButton" finished-at="2024-08-18T11:35:30 IST" duration-ms="185" status="PASS">
+        <test-method signature="ProgramButton()[pri:2, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:04 IST" name="ProgramButton" finished-at="2024-08-26T15:58:04 IST" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProgramButton -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:30 IST" name="CloseBrowser" finished-at="2024-08-18T11:35:30 IST" duration-ms="280" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:04 IST" name="CloseBrowser" finished-at="2024-08-26T15:58:05 IST" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:30 IST" name="LaunchBrowser" finished-at="2024-08-18T11:35:33 IST" duration-ms="3269" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:05 IST" name="LaunchBrowser" finished-at="2024-08-26T15:58:07 IST" duration-ms="2535" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="CareerServices()[pri:3, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:33 IST" name="CareerServices" finished-at="2024-08-18T11:35:36 IST" duration-ms="3348" status="PASS">
+        <test-method signature="CareerServices()[pri:3, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:07 IST" name="CareerServices" finished-at="2024-08-26T15:58:10 IST" duration-ms="2723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CareerServices -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:36 IST" name="CloseBrowser" finished-at="2024-08-18T11:35:37 IST" duration-ms="443" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:10 IST" name="CloseBrowser" finished-at="2024-08-26T15:58:10 IST" duration-ms="190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:37 IST" name="LaunchBrowser" finished-at="2024-08-18T11:35:41 IST" duration-ms="3705" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:10 IST" name="LaunchBrowser" finished-at="2024-08-26T15:58:12 IST" duration-ms="2278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="AdvantagesButton()[pri:4, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:41 IST" name="AdvantagesButton" finished-at="2024-08-18T11:35:41 IST" duration-ms="792" status="PASS">
+        <test-method signature="AdvantagesButton()[pri:4, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:12 IST" name="AdvantagesButton" finished-at="2024-08-26T15:58:13 IST" duration-ms="717" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AdvantagesButton -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:41 IST" name="CloseBrowser" finished-at="2024-08-18T11:35:42 IST" duration-ms="573" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:13 IST" name="CloseBrowser" finished-at="2024-08-26T15:58:13 IST" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:42 IST" name="LaunchBrowser" finished-at="2024-08-18T11:35:45 IST" duration-ms="3318" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:13 IST" name="LaunchBrowser" finished-at="2024-08-26T15:58:15 IST" duration-ms="2117" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method signature="SearchButton()[pri:5, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:45 IST" name="SearchButton" finished-at="2024-08-18T11:35:45 IST" duration-ms="78" status="PASS">
+        <test-method signature="SearchButton()[pri:5, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:15 IST" name="SearchButton" finished-at="2024-08-26T15:58:16 IST" duration-ms="205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchButton -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-18T11:35:45 IST" name="CloseBrowser" finished-at="2024-08-18T11:35:46 IST" duration-ms="249" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:test1.test1Class@45d84a20]" started-at="2024-08-26T15:58:16 IST" name="CloseBrowser" finished-at="2024-08-26T15:58:16 IST" duration-ms="157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
