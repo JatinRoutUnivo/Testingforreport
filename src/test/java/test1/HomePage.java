@@ -34,7 +34,7 @@ public class HomePage{
 	@FindBy(xpath = "//span[@class='mr-1 uppercase laptop:font-medium header_menuText__KlhzO'][normalize-space()='ADVANTAGES']") //Advantages
 	WebElement advanragesButtonElement;
 
-	@FindBy(xpath = "//div[@class='header_searchIcon__bLdgL header_searchIconNew__5aGyK headFootSprite']") //SearechButton
+	@FindBy(xpath = "//div[@class='header_searchIcon__bLdgL header_searchIconNew__5aGyK']") //SearechButton
 	WebElement SearchButtonElement;
 	
 	public void HomePageAmityLogo() {
