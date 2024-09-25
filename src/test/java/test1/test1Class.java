@@ -16,7 +16,7 @@ public class test1Class {
 	@BeforeMethod
 	public void LaunchBrowser() throws InterruptedException {
 
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\admin\\eclipse-workspace\\AmityWebsite_Beta\\ChromeDriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\admin\\eclipse-workspace\\TestBlog\\ChromeDriver\\chromedriver.exe");
 //		ChromeOptions options=new ChromeOptions();
 //		options.addArguments("Headless");
 		driver=new ChromeDriver();
