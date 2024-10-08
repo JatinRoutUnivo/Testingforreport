@@ -16,10 +16,12 @@ public class test1Class {
 	@BeforeMethod
 	public void LaunchBrowser() throws InterruptedException {
 
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\admin\\eclipse-workspace\\TestBlog\\ChromeDriver\\chromedriver.exe");
-//		ChromeOptions options=new ChromeOptions();
-//		options.addArguments("Headless");
-		driver=new ChromeDriver();
+		WebDriverManager.chromedriver().setup();
+		ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--no-sandbox");
+		chromeOptions.addArguments("--headless");
+		chromeOptions.addArguments("disable-gpu");
+		driver = new ChromeDriver(chromeOptions);
 		driver.manage().window().maximize();
 		driver.navigate().to("https://amityonline.com/");
 		Thread.sleep(1000);
