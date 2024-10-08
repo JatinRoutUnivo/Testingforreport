@@ -17,9 +17,9 @@ public class test1Class {
 	public void LaunchBrowser() throws InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\admin\\eclipse-workspace\\TestBlog\\ChromeDriver\\chromedriver.exe");
-		ChromeOptions options=new ChromeOptions();
-		options.addArguments("Headless");
-		driver=new ChromeDriver(options);
+		//ChromeOptions options=new ChromeOptions();
+		//options.addArguments("Headless");
+		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 	
 		driver.navigate().to("https://amityonline.com/");
