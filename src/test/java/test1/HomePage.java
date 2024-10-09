@@ -84,7 +84,7 @@ public class HomePage{
 	public void AdvantagesHeaderButton(){
 		JavascriptExecutor js=((JavascriptExecutor)driver);
 		js.executeScript("arguments[0].click();", advanragesButtonElement);
-		String ExpadvanrageelementURL = "https://amityonline.com/amity-online-advantage";
+		String ExpadvanrageelementURL = "https://amityonline.com/amity-online-advantag";
 		if(driver.getCurrentUrl().equals(ExpadvanrageelementURL)) {
 			System.out.println("Advantages button is working");
 		}else {
