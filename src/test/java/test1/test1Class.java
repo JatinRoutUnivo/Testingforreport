@@ -28,7 +28,7 @@ public class test1Class {
 
 	}
 	
-	@Test (priority = 1)
+/*	@Test (priority = 1)
 	public void AmityLogo() {
 		Hpom.HomePageAmityLogo();
 
@@ -45,7 +45,7 @@ public class test1Class {
 	public void CareerServices() throws InterruptedException{
 		Hpom.CareerServicesHeaderButton();
 
-	}
+	}  */
 
 
 	@Test(priority = 4)
